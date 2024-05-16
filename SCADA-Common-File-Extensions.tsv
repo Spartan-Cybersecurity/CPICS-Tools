@@ -1,0 +1,76 @@
+Vendor	Software	File Extension	Backup file	Notes
+SEL	Quickset	rdb	Filename_rdb_backups/Filename_rdb.##	relay configuration files
+SEL	RTAC Accelerator	exp		RTAC project file
+SEL		hprb	hprbbak, hprjbak	RTAC HMI Configuration
+SEL	SEL Architect	selaprj		Architect project file
+SEL		xml		SEL GPS clock (2488) configuration
+SEL		xml		SEL switch (2730M) configuration
+SEL		bkp		SEL 3620 configuration file
+Subnet Solutions		ssnet		Subnet Solutions project file
+Novatech	Novatech Configuration Director	ncd		OrionLX configuration file
+Novatech	Novatech Configuration Director	ncz		OrionLX configuration 61850 support file
+ABB	Control Builder	prj		Potential Control Builder project file
+ABB	RTIUtil	rcd		RTU560 configuration
+ABB	RTIUtil	rtu		RTU560 configuration
+ABB	SYS600	SYS_BASCOM.COM		ABB SYS600 Base System Configuration file
+ABB	PCM600/SAB600	pcmp		ABB configuration project
+ABB	PCM600/SAB600	pcmi		ABB PCM600 IEC File
+ABB	PCM600/SAB600	pcmt		ABB PCM600 Template IED File
+Motorola	Configurator	spj	Filename.spj.prev	Motorola ACE project file
+Motorola	Configurator	plz		Motorola ACE compiled library
+Motorola	Configurator	adb, opt, out, prp		Motorola ACE Application
+Generic	Various	scl, xml		Substation Configuration Language (IEC 61850)
+Generic	Various	icd, ied		Substation Configuration Language (IEC 61850)
+Generic	Various	cid		IED Capability Description (IEC 61850)
+Generic	Various	scd		Substation Configuration Description (IEC 61850)
+Generic	Various	ssd		System Specification Description (IEC 61850)
+Aveva	Citect SCADA	ctz		
+Siemens	TIA Portal	ap12, ap13,...,ap17	zap12, zap13,..., zap17	Number is version of TIA Portal
+Rockwell	Harmony	conf		
+Yokogawa	CENTUM VP	gz, zip		
+GE	Enervista	urs		GE UR settings file
+GE	Mark VIe	tcw		Mark VIe control .tcw file
+GE	Cimplicity	hmb		Cimplicity HMI configuration file
+GE	Mark VI	m6b		Binary file used in Speedtronics turbine control
+GE	Mark VIe / VIes Simulator	sim		Virtual controller sim file that holds the project configuration
+GE	Mark VIe / VIes Simulator	syl		Virtual controller sim file that contains named variables and all internal states
+Siemens		cfg		
+Triconex		pt2		
+Allen-Bradley		l5x		
+Honeywell	TDS	txt, zip		
+Profinet	IOCM	xml		
+Generic	Various	pl		Programmable Logic File (vendor neutral)
+Generic	Various	paf		PLC Archive File (vendor neutral)
+Generic	Various	ini		Possible configuration file
+ABB	MicroSCADA	cin		ABB MicroSCADA specific file
+ABB	MicroSCADA	xrf		Cross-Reference File
+Generic	Autocad	v		Potential Autocad file
+Generic	Various	trc		Trace file type specified in OPC DA
+Siemens	PSSE	out		Siemens PSSE output
+Siemens	Various	s5d		Siemens SIMATIC Step 5 program
+Siemens	Various	s7p		Siemens SIMATIC Step 7 program
+Siemens	Various	mwp		Siemens Step 7-micro PLV program
+Siemens	Various	s7f	zip, arj	Siemens SIMATIC Step 7 project
+Siemens	Various	zip, arj		Siemens SIMATIC Step 7 compressed project
+Siemens	Various	ekb		Siemens Automation License Manager data
+Generic	Various	license		Potential license data
+Generic	Various	lic		FlexNet license files
+Microsoft	Various	vstax		Visual Studio Tools for Applications Template
+Microsoft	Various	cv4		Microsoft CodeView Graphics Data
+Microsoft	Various	dtq		Visual Studio .NET SQL Query
+Rockwell	RSLogix	pc5		RSLogix internal data
+Rockwell	RSLogix	l5x		RSLogix 5000 XML data
+Rockwell	RSLogix	eas		RSLogix 5000 symbol data
+Rockwell	RSLogix	l5k		RSLogix 5000 project export data
+Rockwell	FactoryTalk	apa		FactoryTalk Project Archive
+Rockwell	FactoryTalk	lic		FlexNet license files
+Rockwell	FactoryTalk	xml		FactoryTalk Activation Manager binding file and other internals
+Generic	Various	gsd		PROFINET General Station Description (language-neutral)
+Generic	Various	gsg		PROFINET General Station Description (german)
+Generic	Various	gse		PROFINET General Station Description (english)
+Generic	Various	gsf		PROFINET General Station Description (french)
+Generic	Various	gsi		PROFINET General Station Description (italian)
+Generic	Various	gsp		PROFINET General Station Description (portuguese)
+Generic	Various	gss		PROFINET General Station Description (spanish)
+Generic	Various	xml		PROFINET General Station Description XML format
+Generic	Various	gsd		PROFINET General Station Description
